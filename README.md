@@ -3,7 +3,7 @@
 Este é um projeto simples de um jogo web chamado **Jogo do Número Secreto**, desenvolvido em JavaScript, HTML e CSS.
 
 ## Objetivo
-O objetivo do jogo é adivinhar qual é o número secreto sorteado pelo sistema, dentro de um intervalo de 1 a 10. O jogador digita um número e recebe dicas se o número secreto é maior ou menor, até acertar.
+O objetivo do jogo é adivinhar qual é o número secreto sorteado pelo sistema, dentro de um intervalo de 1 a 100. O jogador digita um número e recebe dicas se o número secreto é maior ou menor, até acertar.
 
 ## Como funciona
 - O sistema sorteia um número aleatório entre 1 e 100.
