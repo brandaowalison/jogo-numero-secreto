@@ -6,7 +6,7 @@ Este é um projeto simples de um jogo web chamado **Jogo do Número Secreto**, d
 O objetivo do jogo é adivinhar qual é o número secreto sorteado pelo sistema, dentro de um intervalo de 1 a 10. O jogador digita um número e recebe dicas se o número secreto é maior ou menor, até acertar.
 
 ## Como funciona
-- O sistema sorteia um número aleatório entre 1 e 10.
+- O sistema sorteia um número aleatório entre 1 e 100.
 - O jogador faz tentativas digitando um número no campo indicado e clicando em "Chutar".
 - O jogo informa se o número secreto é maior ou menor que o chute.
 - Ao acertar, o jogo exibe a quantidade de tentativas e permite reiniciar.
